@@ -45,7 +45,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_3.032 Mechanical Behavior of Materials_](/courses/3-032-mechanical-behavior-of-materials-fall-2007/)
+[_3.032 Mechanical Behavior of Materials_](/courses/3-032-mechanical-behavior-of-materials-fall-2007)
 
 ### Requirements Satisfied
 

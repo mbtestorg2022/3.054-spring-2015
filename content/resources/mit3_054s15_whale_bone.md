@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/8383b3c12d5b30b74a0ea1368619feeb_MIT3_054S15_Whale_Bone.pdf
 file_type: application/pdf
+parent_uid: 50a60483-9a10-f753-24a9-31daa158f741
 resourcetype: Document
 title: 'Student Project: Image Study of the Failure Mechanisms in Dry Trabecular Whale
   Bone During Fracture Toughness Tests'

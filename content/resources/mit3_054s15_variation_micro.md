@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-054-cellular-solids-structure-properties-and-applications-spring-2015/ed18c640b9949c2fa029fda364a8a021_MIT3_054S15_Variation_Micro.pdf
 file_type: application/pdf
+parent_uid: 50a60483-9a10-f753-24a9-31daa158f741
 resourcetype: Document
 title: "Student Project: Variation in Microstructure and Mechanical Properties of\
   \ Tre Gai Bamboo (Bambusa stenostachya) with Position in the Culm \u2013 3.054 /\
